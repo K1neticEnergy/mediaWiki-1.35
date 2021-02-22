@@ -35,6 +35,9 @@ later). Many thanks to the Wikimedia community for testing and suggestions.
 # For TickLab Wiki - Tiếng Việt 
 
 Sau khi clone, chỉnh sửa file LocalSettings.php với các biến sau:
-$wgServer (dòng 32 - 33)
 
-$wgDBserver (dòng 55)
+*$wgServer (dòng 32 - 33)
+
+*$wgDBserver (dòng 55)
+
+Đổi tên folder project thành TickLabWiki 
