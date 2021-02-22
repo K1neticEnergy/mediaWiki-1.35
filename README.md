@@ -31,3 +31,10 @@ MediaWiki is the result of global collaboration and cooperation. The CREDITS
 file lists technical contributors to the project. The COPYING file explains
 MediaWiki's copyright and license (GNU General Public License, version 2 or
 later). Many thanks to the Wikimedia community for testing and suggestions.
+
+# For TickLab Wiki - Tiếng Việt 
+
+Sau khi clone, chỉnh sửa file LocalSettings.php với các biến sau:
+$wgServer (dòng 32 - 33)
+
+$wgDBserver (dòng 55)
